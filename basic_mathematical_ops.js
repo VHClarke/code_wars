@@ -46,3 +46,4 @@ function basicOp(operation, value1, value2) {
   Test.assertSimilar(basicOp('-', 15, 18), -3);
   Test.assertSimilar(basicOp('*', 5, 5), 25);
   Test.assertSimilar(basicOp('/', 49, 7), 7);
+  
